@@ -1,1 +1,0 @@
-/home/dasappan/project/placement/placement/wsgi.py
